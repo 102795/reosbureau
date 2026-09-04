@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&family=Inter:wght@400;500;600;700&display=swap');
+@import 'tailwindcss';
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+:root {
+  --background: #F3D9DC;
+  --foreground: #744253;
+  --card: #fdf6f7;
+  --card-foreground: #744253;
+  --primary: #744253;
+  --primary-foreground: #F3D9DC;
+  --secondary: #D7BEA8;
+  --secondary-foreground: #744253;
+  --muted: #e8d5c6;
+  --muted-foreground: #B49286;
+  --accent: #C78283;
+  --accent-foreground: #ffffff;
+  --border: #D7BEA8;
+  --ring: #C78283;
+  --radius: 0.5rem;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3, .font-display {
+  font-family: 'Fraunces', serif;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--muted) transparent;
+}
+
+*::-webkit-scrollbar {
+  width: 6px;
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: var(--muted);
+  border-radius: 3px;
+}

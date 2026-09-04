@@ -1,0 +1,10 @@
+{
+  "description": "Offers a travel agency platform with dedicated admin and student pages to manage bookings and access travel information efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
