@@ -1,0 +1,67 @@
+[
+  {
+    "id": "REIS-001",
+    "title": "Rome & The Eternal City",
+    "destination": "Rome, Italië",
+    "description": "Ontdek de eeuwenoude rijkdom van Rome. Bezoek het Colosseum, de Vatikaanse Musea en proef de authentieke Italiaanse keuken.",
+    "type": "Cultuurtrip",
+    "startDate": "2026-10-05",
+    "endDate": "2026-10-12",
+    "maxEnrollments": 24,
+    "imageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=800&h=500&fit=crop&auto=format",
+    "enrollments": [
+      { "studentNumber": "s123456", "reisId": "REIS-001", "identityCardNumber": "BE123456", "remarks": "Vegetarisch dieet" },
+      { "studentNumber": "s234567", "reisId": "REIS-001", "identityCardNumber": "BE234567", "remarks": "" }
+    ]
+  },
+  {
+    "id": "REIS-002",
+    "title": "Barcelona — Gaudí & Meer",
+    "destination": "Barcelona, Spanje",
+    "description": "Van de Sagrada Família tot de stranden van Barceloneta. Een stedentrip vol architectuur, design en mediterraan leven.",
+    "type": "Stedentrip",
+    "startDate": "2026-11-03",
+    "endDate": "2026-11-08",
+    "maxEnrollments": 30,
+    "imageUrl": "https://images.unsplash.com/photo-1583422409516-2895a77efded?w=800&h=500&fit=crop&auto=format",
+    "enrollments": []
+  },
+  {
+    "id": "REIS-003",
+    "title": "Fjorden van Noorwegen",
+    "destination": "Bergen, Noorwegen",
+    "description": "Vaar door de spectaculaire fjorden, wandel in de natuur en ervaar het magische noorderlicht in de Noorse wildernis.",
+    "type": "Natuurtrip",
+    "startDate": "2027-01-15",
+    "endDate": "2027-01-22",
+    "maxEnrollments": 18,
+    "imageUrl": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=800&h=500&fit=crop&auto=format",
+    "enrollments": [
+      { "studentNumber": "s123456", "reisId": "REIS-003", "identityCardNumber": "BE123456", "remarks": "Lichaamelijk fit" }
+    ]
+  },
+  {
+    "id": "REIS-004",
+    "title": "Kyoto in de Lente",
+    "destination": "Kyoto, Japan",
+    "description": "Eeuwenoude tempels, zen-tuinen en de kersenbloesem. Een onderdompeling in de Japanse cultuur en traditie.",
+    "type": "Cultuurtrip",
+    "startDate": "2027-03-28",
+    "endDate": "2027-04-06",
+    "maxEnrollments": 20,
+    "imageUrl": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=800&h=500&fit=crop&auto=format",
+    "enrollments": []
+  },
+  {
+    "id": "REIS-005",
+    "title": "New York City — Urban Jungle",
+    "destination": "New York, VS",
+    "description": "The Big Apple: Central Park, Times Square, de MoMA en de beste pizza in de wereld. Vier dagen pure stad.",
+    "type": "Stedentrip",
+    "startDate": "2027-02-10",
+    "endDate": "2027-02-14",
+    "maxEnrollments": 35,
+    "imageUrl": "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=800&h=500&fit=crop&auto=format",
+    "enrollments": []
+  }
+]
